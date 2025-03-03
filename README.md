@@ -25,9 +25,9 @@
 <br>
 
 ### 🔨 Языки и инструменты:
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/visualstudio/visualstudio.svg" alt="visualstudio" height="42px"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vscode/vscode.svg" alt="vscode" height="42px"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postgresql/postgresql.svg" alt="postgresql" height="42px"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img align="left" src="https://github.com/Popov12312131211/Popov12312131211/blob/main/new_folder/visual%20studio.png" alt="visualstudio" height="42px"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://github.com/Popov12312131211/Popov12312131211/blob/main/new_folder/visual-studio-code.svg" alt="vscode" height="42px"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://github.com/Popov12312131211/Popov12312131211/blob/main/new_folder/postgresql.svg" alt="postgresql" height="42px"/> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
